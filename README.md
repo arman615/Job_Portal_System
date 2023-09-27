@@ -1,7 +1,7 @@
 # Job Portal System
 The Job Portal System is a C++ program that simulates a simple job portal where users can register jobs, apply for jobs, and receive job notifications based on their qualifications.
 
-Features
+# Features
 .Job Registration: Employers can register job openings with details like job title, description, requirements, salary, and company name.
 
 
